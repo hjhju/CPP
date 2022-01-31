@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Coding\ModernCPP\ch01\ch01_02\main.cpp(7,20): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\Coding\ModernCPP\ch01\ch01_02\main.cpp(6,6): warning C4101: 'i2' :참조되지 않은 지역 변수입니다.
+  ch01_02.vcxproj -> D:\Coding\ModernCPP\ch01\x64\Debug\ch01_02.exe
